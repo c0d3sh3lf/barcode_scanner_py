@@ -27,7 +27,7 @@ This repository contains a Python script for scanning barcodes using a webcam.
 Run the script to start scanning barcodes:
 
 ```sh
-python barcode_scanner.py
+python scanner.py
 ```
 
 ## Features
